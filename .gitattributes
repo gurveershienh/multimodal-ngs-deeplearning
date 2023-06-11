@@ -1,0 +1,8 @@
+data/matrix filter=lfs diff=lfs merge=lfs -text
+data filter=lfs diff=lfs merge=lfs -text
+data/matrix/features.tsv.gz filter=lfs diff=lfs merge=lfs -text
+data/matrix/barcodes.tsv.gz filter=lfs diff=lfs merge=lfs -text
+Multi-Modal[[:space:]]NGS[[:space:]]data[[:space:]]analysis[[:space:]]using[[:space:]]Deep[[:space:]]Learning.ipynb filter=lfs diff=lfs merge=lfs -text
+data/HumanMelanomaMultiome_atac.csv filter=lfs diff=lfs merge=lfs -text
+data/HumanMelanomaMultiome_metadata.csv filter=lfs diff=lfs merge=lfs -text
+data/matrix/matrix.mtx.gz filter=lfs diff=lfs merge=lfs -text
