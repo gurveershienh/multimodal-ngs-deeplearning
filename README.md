@@ -1,3 +1,5 @@
+<h1>Multi-Modal Deep Learning on Bioinformatic Data</h1>
+
 This repo contains an application of multi-modal deep learning on high-dimensional bioinformatic data. Using an encoder-decoder neural network architecture, two unique and high dimensional data types were fused into a single data type with significantly lower dimensionality and minimal information loss. 
 
 See the Jupyter notebook demonstration here: 
